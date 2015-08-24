@@ -1,5 +1,8 @@
 fis解决了那些问题？
-资源的分发?资源的版本更新和缓存
+资源的分发?独立资源的版本更新和缓存
+、、批量修订文件名，解决了缓存和时间间隙的问题。。。
 、、https://app.yinxiang.com/shard/s34/nl/8057501/60a47375-cb4f-4397-9d6c-bbdacab2e525/?csrfBusterToken=U%3D7af29d%3AP%3D%2F%3AE%3D14f5ec1227f%3AS%3Dab9249a323669c4c826ea984bd35cd7b
-资源的冗余?资源的就近依赖和按需加载
+资源的冗余和重复?
+工程上维护的不同步导致了资源的冗余？
+如何解决：资源的就近依赖和按需加载，去重。
 、、https://app.yinxiang.com/shard/s34/nl/8057501/ffd9e887-150f-48de-9ee1-4f98215e9002/?csrfBusterToken=U%3D7af29d%3AP%3D%2F%3AE%3D14f5ec1d8f2%3AS%3Dbc99b5699939452f322e66f03256229a
