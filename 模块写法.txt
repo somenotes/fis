@@ -1,0 +1,10 @@
+1\define(id,factory);
+define('vote',function(require,module,exports){
+	//我们的代码写在这里，符合node的CommonJS规范即可
+	//define some
+	var someThing={}或者是一个函数或者是一个类
+	//exports.someThing=someThing;
+	//module.exports=someThing;
+
+});
+2\
