@@ -1,0 +1,19 @@
+业务和组织架构
+一.主站业务：
+1.首页
+2.新闻
+3.车型库
+4.社区
+poc1 cbu contents business unit
+二.电商业务：
+1.自营电商 特价车 美妆车 poc2 ebu
+2.撮合电商4s（天猫）tbu
+三.
+平行进口车 自营 寄售 poc3 xbu
+四.e助手
+4s店 修理厂 crm系统 poc2 tbu e.emao.com
+小部门
+imc ：internet marking center 线上营销中心
+sem和dsp  负责花钱，拉流量
+
+广告媒体 sohu sina  dsp1 dsp2  emao 汽车之家
